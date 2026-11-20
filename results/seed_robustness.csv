@@ -1,0 +1,7 @@
+calibration,scenario,share_feasible,mean_change,sd_change,share_positive
+Baseline calibration (psi = 1),UBI Low,1.0,0.001104,0.000333,1.0
+Baseline calibration (psi = 1),UBI Mid,1.0,-0.000291,0.00068,0.3
+Baseline calibration (psi = 1),UBI High,1.0,-0.015081,0.00157,0.0
+Recalibrated (40% of time worked),UBI Low,1.0,-0.002296,0.000854,0.0
+Recalibrated (40% of time worked),UBI Mid,1.0,-0.033443,0.002367,0.0
+Recalibrated (40% of time worked),UBI High,0.0,nan,nan,nan
